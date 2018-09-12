@@ -1,0 +1,35 @@
+{
+  "Country": {
+    'S': 'AD'
+  },
+  'State': {
+    'S': '7'
+  },
+  'City': {
+    'S': 'Andorra la Vella'
+  },
+  'Postcode': {
+    'S': 'AD500'
+  },
+  'StateCityPostcode': {
+    'S': '7#ANDORRA LA VELLA#AD500'
+  },
+  'StoreNumber': {
+    'S': '47370-257954'
+  },
+  'StoreName': {
+    'S': 'Meritxell, 96'
+  },
+  'StreetAddress': {
+    'S': 'Av. Meritxell, 96'
+  },
+  'Latitude': {
+    'S': '42.51'
+  },
+  'Longitude': {
+    'S': '1.53'
+  },
+  'PhoneNumber': {
+    'S': '376818720'
+  }
+}

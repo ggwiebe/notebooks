@@ -1,0 +1,90 @@
+{
+  "Count": 2,
+  "Items": [
+    {
+      "City": {
+        "S": "OMAHA"
+      },
+      "Country": {
+        "S": "US"
+      },
+      "Latitude": {
+        "S": "41.23"
+      },
+      "Longitude": {
+        "S": "-96.14"
+      },
+      "PhoneNumber": {
+        "S": "402-334-1415"
+      },
+      "Postcode": {
+        "S": "68144"
+      },
+      "State": {
+        "S": "NE"
+      },
+      "StateCityPostcode": {
+        "S": "NE#OMAHA#68144"
+      },
+      "StoreName": {
+        "S": "Family Fare 3784 Omaha"
+      },
+      "StoreNumber": {
+        "S": "48135-261124"
+      },
+      "StreetAddress": {
+        "S": "14444 W. CENTER RD., Westwood Plaza"
+      }
+    },
+    {
+      "City": {
+        "S": "Omaha"
+      },
+      "Country": {
+        "S": "US"
+      },
+      "Latitude": {
+        "S": "41.23"
+      },
+      "Longitude": {
+        "S": "-96.1"
+      },
+      "PhoneNumber": {
+        "S": "4027785900"
+      },
+      "Postcode": {
+        "S": "681443957"
+      },
+      "State": {
+        "S": "NE"
+      },
+      "StateCityPostcode": {
+        "S": "NE#OMAHA#681443957"
+      },
+      "StoreName": {
+        "S": "125th & W. Center Rd."
+      },
+      "StoreNumber": {
+        "S": "2651-53179"
+      },
+      "StreetAddress": {
+        "S": "12245 West Center Rd."
+      }
+    }
+  ],
+  "ResponseMetadata": {
+    "HTTPHeaders": {
+      "connection": "keep-alive",
+      "content-length": "738",
+      "content-type": "application/x-amz-json-1.0",
+      "date": "Wed, 12 Sep 2018 15:42:14 GMT",
+      "server": "Server",
+      "x-amz-crc32": "3376230352",
+      "x-amzn-requestid": "RSNRTBU00D5DS3APM1QL6GK3JVVV4KQNSO5AEMVJF66Q9ASUAAJG"
+    },
+    "HTTPStatusCode": 200,
+    "RequestId": "RSNRTBU00D5DS3APM1QL6GK3JVVV4KQNSO5AEMVJF66Q9ASUAAJG",
+    "RetryAttempts": 0
+  },
+  "ScannedCount": 2
+}
